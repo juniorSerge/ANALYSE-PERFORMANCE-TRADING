@@ -1,0 +1,4 @@
+ticket,opening_time_utc,closing_time_utc,type,lots,symbol,opening_price,closing_price,stop_loss,take_profit,commission_usd,swap_usd,profit_usd,equity_usd,margin_level,close_reason
+42917531,2023-09-11T13:27:54,2023-09-11T14:02:19,sell,0.01,XAUUSDm,1929.27,1925.362,1933,1920,0,0,3.91,,,user
+42917446,2023-09-11T13:27:11,2023-09-11T14:02:17,sell,0.01,XAUUSDm,1929.336,1925.368,1933,1916,0,0,3.97,,,user
+42917526,2023-09-11T13:27:51,2023-09-11T14:02:17,sell,0.02,XAUUSDm,1929.353,1925.3700000000001,1933,1920,0,0,7.97,,,user
